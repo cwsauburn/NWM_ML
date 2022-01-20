@@ -10,7 +10,7 @@
 It contains the script for the final graphs and the raw data which is used to generate these graphs. 
   
 
-**ML_Models Folder **
+**ML_Models Folder**
 
 It contains trained machine learning models fot 0 to 30 day lead day data. 
 
