@@ -2,7 +2,7 @@
 
 **0-30 day Lead data folder**  
 
-  It  contains the cumilative streamflow data of all the stations for 0 to 30 day lead. These files are stored in CSV format and read as input for Various Scripts.
+  It  contains  0 to 30 day lead Streamflow forecast grouped individually. These files are stored in CSV format and read as input for Various Scripts.
 
 
 **Grphs Folder**
