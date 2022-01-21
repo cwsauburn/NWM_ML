@@ -24,4 +24,4 @@ It contains the scripts which were used to set up data for 0 to 30 days lead str
 This folder contains Diffrent Machine Learning scripts which were used to train the model and predict the streamflow for all the 30 day lead data. 
 
 
-**NOTE**: Raw data can be obtained by contacting the authors of the paper, primary contact is szk0139@auburn.edu.
+**NOTE**:Due to large size of the Raw data, it  can be obtained on request by contacting the authors of the paper. Primary contact: szk0139@auburn.edu.
