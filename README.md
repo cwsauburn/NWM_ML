@@ -12,3 +12,5 @@ This project contains the following underlying data :
     •train&predict_scripts : This folder contains Different Machine Learning scripts which were used to train the model and predict the streamflow of ungauged sites for all the 30 day lead data.
 
 NOTE: Due to large size of the Input data, it can be obtained on request by contacting the authors of the paper. Primary contact: szk0139@auburn.edu.
+
+To run the scenario use the NWM_ML/train&predict_scripts/final_neural_script_10day.ipynb and the raw data at NWM_ML/out_lead_10day_data.csv. 
